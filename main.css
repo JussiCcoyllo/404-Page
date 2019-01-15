@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline:0;
+    font-size: 100%;
+    vertical-align: baseline;
+
+}
+html{font-family: Varela Round, sans-serif;
+}
+body{
+    widht: 100%;
+    background-color: white;
+}
+a{
+    text-decoration: none;
+    color: #aaa; 
+}
+.back{
+    margin-left: 200px;
+    padding-top:margin-left: 200px;
+    padding-top: 100px;
+}
+.heart{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    margin-left: 120px;
+}
